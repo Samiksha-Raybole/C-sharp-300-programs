@@ -1,0 +1,14 @@
+C:\C# Level 2\51.ArrayElement\bin\Debug\net10.0\51.ArrayElement.exe
+C:\C# Level 2\51.ArrayElement\bin\Debug\net10.0\51.ArrayElement.deps.json
+C:\C# Level 2\51.ArrayElement\bin\Debug\net10.0\51.ArrayElement.runtimeconfig.json
+C:\C# Level 2\51.ArrayElement\bin\Debug\net10.0\51.ArrayElement.dll
+C:\C# Level 2\51.ArrayElement\bin\Debug\net10.0\51.ArrayElement.pdb
+C:\C# Level 2\51.ArrayElement\obj\Debug\net10.0\51.ArrayElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Level 2\51.ArrayElement\obj\Debug\net10.0\51.ArrayElement.AssemblyInfoInputs.cache
+C:\C# Level 2\51.ArrayElement\obj\Debug\net10.0\51.ArrayElement.AssemblyInfo.cs
+C:\C# Level 2\51.ArrayElement\obj\Debug\net10.0\51.ArrayElement.csproj.CoreCompileInputs.cache
+C:\C# Level 2\51.ArrayElement\obj\Debug\net10.0\51.ArrayElement.dll
+C:\C# Level 2\51.ArrayElement\obj\Debug\net10.0\refint\51.ArrayElement.dll
+C:\C# Level 2\51.ArrayElement\obj\Debug\net10.0\51.ArrayElement.pdb
+C:\C# Level 2\51.ArrayElement\obj\Debug\net10.0\51.ArrayElement.genruntimeconfig.cache
+C:\C# Level 2\51.ArrayElement\obj\Debug\net10.0\ref\51.ArrayElement.dll
