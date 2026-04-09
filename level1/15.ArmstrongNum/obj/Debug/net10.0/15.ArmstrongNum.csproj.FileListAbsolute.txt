@@ -1,0 +1,14 @@
+C:\C# tutorial\15.ArmstrongNum\obj\Debug\net10.0\15.ArmstrongNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# tutorial\15.ArmstrongNum\obj\Debug\net10.0\15.ArmstrongNum.AssemblyInfoInputs.cache
+C:\C# tutorial\15.ArmstrongNum\obj\Debug\net10.0\15.ArmstrongNum.AssemblyInfo.cs
+C:\C# tutorial\15.ArmstrongNum\obj\Debug\net10.0\15.ArmstrongNum.csproj.CoreCompileInputs.cache
+C:\C# tutorial\15.ArmstrongNum\bin\Debug\net10.0\15.ArmstrongNum.exe
+C:\C# tutorial\15.ArmstrongNum\bin\Debug\net10.0\15.ArmstrongNum.deps.json
+C:\C# tutorial\15.ArmstrongNum\bin\Debug\net10.0\15.ArmstrongNum.runtimeconfig.json
+C:\C# tutorial\15.ArmstrongNum\bin\Debug\net10.0\15.ArmstrongNum.dll
+C:\C# tutorial\15.ArmstrongNum\bin\Debug\net10.0\15.ArmstrongNum.pdb
+C:\C# tutorial\15.ArmstrongNum\obj\Debug\net10.0\15.ArmstrongNum.dll
+C:\C# tutorial\15.ArmstrongNum\obj\Debug\net10.0\refint\15.ArmstrongNum.dll
+C:\C# tutorial\15.ArmstrongNum\obj\Debug\net10.0\15.ArmstrongNum.pdb
+C:\C# tutorial\15.ArmstrongNum\obj\Debug\net10.0\15.ArmstrongNum.genruntimeconfig.cache
+C:\C# tutorial\15.ArmstrongNum\obj\Debug\net10.0\ref\15.ArmstrongNum.dll
