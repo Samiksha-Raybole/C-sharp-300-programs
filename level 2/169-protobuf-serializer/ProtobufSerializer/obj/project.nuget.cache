@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "aGE6gZ12MvE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laptop On Rent 135\\Documents\\GitHub\\C-SharpPrograms\\169-protobuf-serializer\\ProtobufSerializer\\ProtobufSerializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laptop On Rent 135\\.nuget\\packages\\protobuf-net\\3.2.30\\protobuf-net.3.2.30.nupkg.sha512",
+    "C:\\Users\\Laptop On Rent 135\\.nuget\\packages\\protobuf-net.core\\3.2.30\\protobuf-net.core.3.2.30.nupkg.sha512",
+    "C:\\Users\\Laptop On Rent 135\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
+    "C:\\Users\\Laptop On Rent 135\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Laptop On Rent 135\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Laptop On Rent 135\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Laptop On Rent 135\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
